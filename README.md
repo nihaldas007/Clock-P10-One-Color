@@ -35,7 +35,7 @@ This project displays the **real-time clock** on a **P10 single-color LED matrix
 ## 📷 Diagram Image
 
 ### Diagram
-![Front View](images/front.jpg)
+![Front View](images/front.png)
 
 ---
 
