@@ -23,7 +23,7 @@ This project displays the **real-time clock** on a **P10 single-color LED matrix
 
 | Component           | Quantity |
 |---------------------|----------|
-| Arduino Nano        | 1        |
+| Arduino UNO         | 1        |
 | P10 LED Display     | 1        |
 | DS1307 RTC Module   | 1        |
 | 10K Pull-up Resistors (for SDA/SCL) | 2 (optional) |
@@ -45,9 +45,10 @@ This project displays the **real-time clock** on a **P10 single-color LED matrix
 |--------------|-------------|------------|
 | D6           | A           |            |
 | D7           | B           |            |
-| D8           | CLK         |            |
-| D9           | STB         |            |
-| D10          | DIN         |            |
+| D13          | CLK         |            |
+| D8           | SCLK        |            |
+| D11          | DIN         |            |
+| D9           | OE          |            |
 | GND          | GND         | GND        |
 | 5V           | VCC         | VCC        |
 | A4 (SDA)     |             | SDA        |
