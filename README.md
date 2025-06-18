@@ -32,13 +32,10 @@ This project displays the **real-time clock** on a **P10 single-color LED matrix
 
 ---
 
-## 📷 Images
+## 📷 Diagram Image
 
-### Front View
+### Diagram
 ![Front View](images/front.jpg)
-
-### Wiring Preview
-![Wiring Diagram](images/wiring.jpg)
 
 ---
 
@@ -62,7 +59,7 @@ This project displays the **real-time clock** on a **P10 single-color LED matrix
 
 Install these libraries via Arduino Library Manager:
 
-- [DMD2](https://github.com/freetronics/DMD2)
+- [DMD](https://github.com/freetronics/DMD2)
 - [RTClib](https://github.com/adafruit/RTClib)
 - SPI (built-in with Arduino IDE)
 
